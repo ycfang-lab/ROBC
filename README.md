@@ -15,7 +15,9 @@ imgs/
     ├── train_1.png (OBC image)
     └── train_2.png 
 ```
-- OBCID: The ID of Oracle Bone Character
-- num: Corresponding IDS among various glyphs of the OBCID 
-- character: Corresponding modern Chinese character
+- OBCID: the ID of Oracle Bone Character
+- num: the corresponding IDS among various glyphs of the OBCID 
+- character: the corresponding modern Chinese character
 
+### OBC IDS
+The Ideographic Description Sequence for Oracle bone characters is shown in [OBC_IDS]([http://github.com/kawabata/ids](https://github.com/ycfang-lab/ROBC/blob/main/OBC_IDS.json))
