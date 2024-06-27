@@ -15,7 +15,7 @@ imgs/
     ├── train_1.png (OBC image)
     └── train_2.png 
 ```
--OBCID: The ID of Oracle Bone Character
--num: Corresponding IDS among various glyphs of the OBCID 
--character: Corresponding modern Chinese character
+- OBCID: The ID of Oracle Bone Character
+- num: Corresponding IDS among various glyphs of the OBCID 
+- character: Corresponding modern Chinese character
 
