@@ -20,4 +20,8 @@ imgs/
 - character: the corresponding modern Chinese character
 
 ### OBC IDS
-The Ideographic Description Sequence for Oracle bone character is shown in [OBC_IDS](./OBC_IDS.json)
+The Ideographic Description Sequence for Oracle bone character is shown in [OBC_IDS](./OBC_IDS.json).
+- 02FF0~02FFF: IDCs (Ideographic Description Characters) representing spatial structure and radical posture, the meaning of each one refers to the [Unicode character code charts](https://www.unicode.org/charts/PDF/U2FF0.pdf)
+
+-
+-  
