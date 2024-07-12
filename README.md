@@ -3,7 +3,7 @@ ROBC
 This is a radical-level annotation oracle bone character dataset.
 
 ## Dataset
-The image data of oracle bone character can be obtained by aceessing the [kaggle](https://www.kaggle.com/datasets/lzccharley/radical-level-oracle-bone-character-dataset).
+The image data of oracle bone character can be obtained by aceessing the [kaggle](https://www.kaggle.com/datasets/ycfanglab/radical-level-oracle-bone-character-dataset).
 
 ### The dataset directory is as follows：
 ```plaintext
