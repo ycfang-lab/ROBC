@@ -25,7 +25,7 @@ The Ideographic Description Sequence for Oracle bone character is shown in [OBC_
 - 6****: the encoding of oracle bone character/radical is annotated based on the [oracle bone font library of Yinqi Wenyuan](https://jgw.aynu.edu.cn/home/down/index.html)
 - others: characters and radicals that have not yet been included in the oracle bone font library are replaced with corresponding modern Chinese character unicode
 
-## References and Acknowledgements
+## Citation
 ```bash
 @inproceedings{li2024robc,
   title={ROBC: A Radical-Level Oracle Bone Character Dataset},
