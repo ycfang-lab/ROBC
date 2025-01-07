@@ -26,6 +26,13 @@ The Ideographic Description Sequence for Oracle bone character is shown in [OBC_
 - others: characters and radicals that have not yet been included in the oracle bone font library are replaced with corresponding modern Chinese character unicode
 
 ## References and Acknowledgements
-```
-Awaiting
+```bash
+@inproceedings{li2024robc,
+  title={ROBC: A Radical-Level Oracle Bone Character Dataset},
+  author={Li, Zhengchen and Li, Xintong and Qian, Kaiwen and Fang, Yuchun},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={100--113},
+  year={2024},
+  organization={Springer}
+}
 ```
